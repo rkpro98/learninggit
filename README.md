@@ -1,2 +1,5 @@
 # learninggit
-My first github repo author : rajish Khatiwada
+My first github repo 
+<br>
+author : rajish Khatiwada
+
