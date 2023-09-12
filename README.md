@@ -1,5 +1,5 @@
 # learninggit
 My first github repo 
 <br>
-author : rajish Khatiwada
+author : rajish Khatiwada (rkpro98)
 
